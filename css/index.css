@@ -1,0 +1,22 @@
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 16px
+}
+
+.header-top ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+.header-top ul li {
+    margin: 5px
+}
+
+.header-logo {
+    text-align: center;
+    border-bottom: 1px solid;
+}
